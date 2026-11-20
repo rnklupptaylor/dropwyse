@@ -1,0 +1,14 @@
+{
+  "name": "dropwyse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive wetting, roughness and liquid-infused surface teaching app.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node tools/build.cjs",
+    "test": "node tests/check-physics.cjs && node tests/check-migration.cjs"
+  }
+}

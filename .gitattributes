@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+# Preserve the migrated HTML byte-for-byte, including its original line endings.
+src/index.html -text whitespace=cr-at-eol

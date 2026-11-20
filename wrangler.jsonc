@@ -1,0 +1,9 @@
+{
+  "name": "dropwyse",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./build/deploy"
+  },
+  "preview_urls": true,
+  "previews": {}
+}
